@@ -2,6 +2,7 @@
 
 A simple scene where players can light up fireworks, and all other players see them light up too.
 
+![](screenshot/screenshot.gif)
 
 This scene shows you:
 - How to keep players synced by using the messagebus to communicate each player's actions to others
