@@ -3,8 +3,6 @@
 A simple scene where players can light up fireworks, and all other players see them light up too.
 
 
-//![demo](https://github.com/decentraland-scenes/piano-floor-example-scene/blob/master/screenshots/piano-floor.gif)
-
 This scene shows you:
 - How to keep players synced by using the messagebus to communicate each player's actions to others
 - How to play sounds from files
